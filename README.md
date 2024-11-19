@@ -14,7 +14,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kacpercio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacpercio&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api?username=Kacpercio&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ### 🎧 Spotify Playing
