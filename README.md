@@ -20,8 +20,7 @@
 ### 🎧 Spotify Playing
 
 <!--![spotify-github-profile](/img/default.svg)-->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31re6ktgctndpz7sxapjqsbpnejq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31re6ktgctndpz7sxapjqsbpnejq)
 
 ### :dart: Weekly Fuck The Code
 
