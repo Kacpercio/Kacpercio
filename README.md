@@ -15,7 +15,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacpercio&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kacpercio"/></a>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kacpercio)]
 
 
 ### 🎧 Spotify Playing
