@@ -17,19 +17,6 @@
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 
-<details open>
- <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
-  <br>
-
-</details>
-
-
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](/img/default.svg)
@@ -50,113 +37,10 @@ No activity tracked
 
 
 <!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoochanlon">123456</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
-      </a>
-      <br />
-      <a href="https://github.com/victoryang00">Yiwei Yang</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Hexzilla">
-        <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
-      </a>
-      <br />
-      <a href="https://github.com/Hexzilla">Hexzilla</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lichengtao1989">
-        <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
-      </a>
-      <br />
-      <a href="https://github.com/lichengtao1989">mycodelct</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guanguans">
-        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
-      </a>
-      <br />
-      <a href="https://github.com/guanguans">guanguans</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Franklin Gabriel Guerra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-  </tr>
-</table>
+
 <!--END_SECTION:top-followers-->
 
-- :computer: PC/Mac:
+- :computer: PC:
     - M1 Pro 16寸 16G+512G
     - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
     - MacBookPro2015 16G 256SSD
@@ -181,16 +65,10 @@ No activity tracked
     - i5-4790 16G 60G 1T Linux Mint
 
 - :iphone: phone/iPhone:
-    - iPhone12
-
-- :camera: Camera:
-    - Sony A6000
-    - Sony A6400
-    - Sony A7M4
+    - iPhone 15
 
 - :microphone: Mic:
-    - SM7B + ID14MKII
-    - MAONO PM320T + E2
+    - MOZOS GAMING 300
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
@@ -200,7 +78,7 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/tangyoha/telegram_media_downloader/issues/191#issuecomment-2381862499) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
+<!--1. 🗣 Commented on [#191](https://github.com/tangyoha/telegram_media_downloader/issues/191#issuecomment-2381862499) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
 2. 🗣 Commented on [#128](https://github.com/tangyoha/telegram_media_downloader/issues/128#issuecomment-2304314662) in [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)
 <!--END_SECTION:activity-->
 
