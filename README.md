@@ -33,7 +33,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### :sparkles: My Followers
+### :sparkles: My PC
 
 
 <!--START_SECTION:top-followers-->
