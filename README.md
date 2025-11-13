@@ -70,6 +70,6 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/sukunetsiz/kabus/pull/22) in [sukunetsiz/kabus](https://github.com/sukunetsiz/kabus)
+1. ❗ Opened issue [#462](https://github.com/Nereziel/cs2-WeaponPaints/issues/462) in [Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)
 <!--END_SECTION:activity-->
 
