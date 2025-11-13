@@ -70,6 +70,6 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#462](https://github.com/Nereziel/cs2-WeaponPaints/issues/462) in [Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)
+1. 🔒 Closed issue [#462](https://github.com/Nereziel/cs2-WeaponPaints/issues/462) in [Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)
 <!--END_SECTION:activity-->
 
