@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua    1 hr 4 mins     ████████████████████████▓   98.87 %
-SQL    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
