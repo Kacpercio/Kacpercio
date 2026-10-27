@@ -46,7 +46,7 @@ Other        27 mins               █░░░░░░░░░░░░░░
 </table>
 <!--END_SECTION:top-followers-->
 
-- :computer: PC:
+- :desktop_computer: PC:
     - NZXT H6 FLOW
     - 2x Lexar 1TB M.2 PCIe Gen4 NVMe NM790
     - Gainward GeForce RTX 4070Ti Super Panther OC 16GB GDDR6X
@@ -60,7 +60,7 @@ Other        27 mins               █░░░░░░░░░░░░░░
     - Apple AirPods 2. gen
     - MSI MAG 341CQP QD-OLED
 
-- :laptop: LAPTOP:
+- :computer: LAPTOP:
   - MacBook Pro M5 Pro
 
 - :iphone: phone/iPhone:
