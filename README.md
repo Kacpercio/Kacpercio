@@ -60,6 +60,9 @@ Other        27 mins               █░░░░░░░░░░░░░░
     - Apple AirPods 2. gen
     - MSI MAG 341CQP QD-OLED
 
+- :laptop: LAPTOP:
+  - MacBook Pro M5 Pro
+
 - :iphone: phone/iPhone:
     - iPhone 15
 
