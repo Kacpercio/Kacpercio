@@ -73,6 +73,6 @@ CSS              1 hr 25 mins          ██░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#462](https://github.com/Nereziel/cs2-WeaponPaints/issues/462) in [Nereziel/cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)
+1. 💪 Opened PR [#16](https://github.com/SpeedrunTooling/SRTPluginProviderRE9/pull/16) in [SpeedrunTooling/SRTPluginProviderRE9](https://github.com/SpeedrunTooling/SRTPluginProviderRE9)
 <!--END_SECTION:activity-->
 
