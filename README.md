@@ -73,6 +73,6 @@ CSS              1 hr 25 mins          ██░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Kacpercio/kabus/pull/1) in [Kacpercio/kabus](https://github.com/Kacpercio/kabus)
+1. 🎉 Merged PR [#1](https://github.com/Kacpercio/kabus/pull/1) in [Kacpercio/kabus](https://github.com/Kacpercio/kabus)
 <!--END_SECTION:activity-->
 
